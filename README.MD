@@ -5,4 +5,8 @@ Ce repo contient un notebook qui:
 
 Sur 100 epochs, les résultats sont assez satisfaisants. Avec plus d'entrainement, les résultats devraient encore être améliorés.
 
-<img src='img.png'>Images apres 100 epochs</img>
+<h2>Images issues du dataset original EUROSAT</h2>
+<img src='orig.png'>
+
+<h2>Images générées par le GAN après 100 epochs</h2>
+<img src='img.png'>
